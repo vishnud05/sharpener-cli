@@ -1,6 +1,9 @@
 # Exclude build directory
 build/
 
+# Exclude VSCode settings
+.vscode/
+
 # Other common exclusions
 *.log
 *.tmp
