@@ -1,0 +1,10 @@
+# Exclude build directory
+build/
+
+# Other common exclusions
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
